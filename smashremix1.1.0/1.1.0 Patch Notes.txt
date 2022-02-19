@@ -1,0 +1,143 @@
+1.1.0 PATCH NOTES
+
+CHARACTERS
+
+* Sonic added (with unique classic Sonic Costume)
+
+* Super Sonic added
+
+* Sandbag added strictly for Home Run Contest and Training Mode
+
+* Bowser 
+    - Low Poly model updated for better performance in doubles and other 3+ player matches
+    - Neutral Special will now slowly recover flame ammo after usage, instead of instantly recovering all
+
+* Dr. Mario
+    - Pill Volume Reduced
+    
+* Giga Bowser announcer voice updated
+
+Kirby/JKirby
+    - Fixed issue where Dr. Mario Pill Power always had same palette as last Dr. Mario pill
+    
+* Pikachu purple costume added
+
+* Jigglypuff black costume added
+
+* Donkey Kong yellow costume added
+
+GENERAL
+
+* Improved overall functionality of Single Player Menu
+* Character Select Screen Updates
+    - CSS expanded by 3 portraits
+    - Fixed character select flash for variants
+    - Character Select Screen Menu Panel Updated
+        a. Added Start With CSS panel menu option to allow spawning/respawning
+        with an item
+        b. Added Taunt Item CSS panel menu option to allow spawning items with
+        taunt
+        c. Added Taunt Button CSS panel menu option to allow remapping the
+        taunt button to D-pad or C buttons
+        d. Shield Colors Updated
+            i. Yoshi's egg shield now affected by shield color selection from CSS
+            panel menu option, which also affects Yoshi's thrown eggs, intro egg, and layed eggs
+            ii. Costume setting that matches shield color to current costume color
+			iii. Costume setting that restores the vanilla shield colors
+        e. Input Display Option added
+* Remix Credits added to staff roll
+* SSB debug screen, intro and staff roll accessible from Settings menu
+* Changes to heap space allocation to avoid crashes
+* Toggles and Settings
+    -   Toggle added that allows Salty Runback to preserve song
+    -   Added toggle to fix vanilla stereo bug (on by default)
+    -   Added Menu Music value 'OFF'. Can now mute the menu while still keeping 'Play Music' ON
+    -   Added toggle which restores vanilla Stock Mode VS results screen if off
+    -   Toggle added for skipping cheer noise at start of training
+* Invisibility improved for Captain Falcon and Kirby's Donkey Kong and Pikachu hats
+* Characters in Giant and Tiny forms now have altered weight attributes
+* Tournament Stage Select Updates
+    - Now only includes legal stages for Smash Remix Tour
+    - Hazards and movement options are set for each stage and cannot be changed
+    - Stage form is set for each stage and cannot be changed
+    - Random stages in tournament mode updated for Smash Remix Tour
+* Music and Stage Profiles updated
+* New saw tooth instrument added
+
+MODES
+
+* Home Run Contest Added
+* Stamina Mode added to VS Mode options
+* Added Remix BTT/BTP, which allows the selection of any bonus stage for any character
+* Remix 1p Updates
+    - Remix mode Kirby stage now has a random set of Remix character Kirby powers
+    - Super Sonic added as alternative Boss in Remix 1p
+* Twelve Character Battle Updates
+    - Fixed reset bug for 1 stock battles
+    - Fixed CSS UI issues with dpad indicators
+    - Fixed stock mode manual issues
+    - Announcer sound changed
+    - Z and R now cycle portraits while held
+	- Random portraits now obey Random Select With Variants toggle
+* Allstar difficulty adjustments
+* 1p Congratulations image updated
+* Fixed No Damage Clear bug in Allstar Mode
+* Fixed glitch related to Full Power Bonus in Singleplayer Modes
+* Training Mode Updates
+    - Added hold A to Exit visual effect and text for training mode
+    - Shield Break mode has additional options for actions CPU will take out of shield
+	- Disabled dpad menu navigation in training custom menu
+* Can now Hold R and L to force displaying VS results when Skip Results Screen toggle is on
+* Modified VS results screen scoring to better reflect time up outcome
+
+STAGES
+
+* Green Hill Zone added
+
+* Subcon added
+
+* Metallic Madness Zone added
+
+* Casino Night Zone added
+
+* Pirate Land added
+
+* Mute City revamped
+
+* Hyrule Castle Remix added
+
+* Sector Z Remix added
+
+* Mushroom Kingdom Remix added
+
+* Sonic Break the Targets added
+
+* Sonic Board the Platforms added
+
+* Corneria lasers now have sound
+
+* Rock Solid replaces Sloprano as Windy's rare alternative track
+
+* Unintended splash effects removed from Jungle Japes intro period
+
+* Original Mute City has been revised and is now the DL version of Mute city
+
+* Young Link Board the Platforms warping issue fixed
+
+* Warioware - Monkey Watch added as alternative track
+
+* Skyloft Singleplayer Spawns adjusted
+
+* Hyrule Temple graphics updated
+
+* Wario Break the Targets graphical fixes
+
+* Dark Samus Break the Targets graphical fixes
+
+* Falco Break the Targets graphical fixes
+
+* Young Link Break the Targets graphical fixes
+
+* Wario Board the Platforms graphical fixes
+
+* Wolf Board the Platforms graphical fixes
